@@ -8,4 +8,4 @@ Github is used to host repositories in a cloud-based system, while Git is used f
 
 Why do we use Github?
 
-When working in a team, Github is vital to making sure 
+When working in a team, Github is vital to making sure there are no conflicts when working in a big team. This is done by "checking out" your own instance of an application to edit locally. You can do this without inferring with someone else's work or compromising the security of your application.
